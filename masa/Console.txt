@@ -1,0 +1,16 @@
+DespaceStudio MasaOS [版本：0.0.1 beta]
+版权所有(c) 2020 Despace Corporation。保留所有权利。
+
+C:\users\admin>update
+_____当前版本为0.0.1beta，正在检查更新……
+_____run masa/update.exe
+_____读取成功！
+_____run masa/update/getnewv.exe
+_____run sys/ConnectToTheNetwork.exe
+_____get masa/update/char.txt
+_____get masa/update/consoleCommand.txt
+_____get masa/update/sysChar.txt
+_____更新完成！
+_____当前版本：0.0.1
+
+C:\users\admin>
